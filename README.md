@@ -1,3 +1,5 @@
-![CI](https://github.com/freelandos/AHJ-HW-12_Loading_Frontend/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/selivados/AHJ-HW-12_Loading_Frontend/actions/workflows/web.yml/badge.svg)
 
-[GitHub Pages](https://freelandos.github.io/AHJ-HW-12_Loading_Frontend/)
+[GitHub Pages](https://selivados.github.io/AHJ-HW-12_Loading_Frontend/)
+
+[Loading Backend](https://github.com/selivados/AHJ-HW-12_Loading_Backend)
